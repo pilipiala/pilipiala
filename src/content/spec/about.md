@@ -1,4 +1,6 @@
 # About
+![](assets/images/啊茶茶1.png)
+
 这是 Fuwari [啊茶茶](https://github.com/pilipiala/fuwari)的演示站点。
 
 ::github{repo="pilipiala/fuwari"}
