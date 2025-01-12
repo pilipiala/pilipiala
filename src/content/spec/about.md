@@ -1,6 +1,7 @@
 # About
 
-<img src="./啊茶茶1.png" title="" alt="" width="252">
+<img src="./啊茶茶1.png" title="" alt="" width="201">
+<img src="./啊茶茶1.png" width="201"/>
 
 这是 Fuwari [啊茶茶](https://github.com/pilipiala/fuwari)的演示站点。
 
