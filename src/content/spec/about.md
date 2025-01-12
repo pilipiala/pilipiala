@@ -1,5 +1,5 @@
 # About
-![](./啊茶茶1.png)
+<img src="./啊茶茶1.png" style="zoom: 20%;" />
 
 这是 Fuwari [啊茶茶](https://github.com/pilipiala/fuwari)的演示站点。
 
