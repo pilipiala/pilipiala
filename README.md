@@ -8,7 +8,7 @@ A static blog template built with [Astro](https://astro.build).
 
 > README version: `2024-09-10`
 
-![Preview Image](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
+![Preview Image](https://github.com/pilipiala/pilipiala/blob/main/public/favicon/Homepage.png)
 
 ## ✨ Features
 
