@@ -2,7 +2,7 @@
 
 A static blog template built with [Astro](https://astro.build).
 
-[**🖥️ Live Demo (Vercel)**]([https://fuwari.vercel.app](https://pilipiala.pages.dev/))&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
+[**🖥️ Live Demo (Vercel)**](https://pilipiala.pages.dev/)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
 
 
 
