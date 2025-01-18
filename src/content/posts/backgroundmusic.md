@@ -55,6 +55,6 @@ return paginate(allBlogPosts, { pageSize: PAGE_SIZE })
   <source src="" type="audio/mp3">
 </audio>
 ```
-- 音乐控件参考菜鸟教程：[](https://www.runoob.com/?s=audio)
+- 音乐控件参考菜鸟教程：https://www.runoob.com/?s=audio
 > 参考了：[Astro 入门教程](https://juejin.cn/post/7445956009564700726)
 
