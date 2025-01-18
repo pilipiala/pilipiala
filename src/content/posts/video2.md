@@ -2,7 +2,7 @@
 title: 在帖子中嵌入视频2
 published: 2025-01-18
 description: 这篇文章演示了如何在博客文章中包含嵌入视频。
-tags: [示例、视频]
+tags: [示例,视频]
 category: 示例
 draft: false
 ---

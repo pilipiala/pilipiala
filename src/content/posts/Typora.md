@@ -3,7 +3,7 @@ title: Typora 免费安装教程
 published: 2025-01-11
 description: Typora安装激活保姆教程
 image: "./img/PixPin_2025-01-12_15-55-30.png"
-tags: [示例、软件、教程]
+tags: [示例,软件,教程]
 category: 示例
 draft: false
 ---
