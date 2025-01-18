@@ -13,8 +13,9 @@ draft: false
 :::
 
 <!-- TOC -->
-* [采用video标签](#采用video标签)
+* [采用video标签实现视频播放](#采用video标签实现视频播放)
 * [控件删减](#控件删减)
+* [插入网页视频示例(Bilibili、YouTube)](#插入网页视频示例bilibiliyoutube)
 <!-- TOC -->
 
 # 采用video标签实现视频播放
