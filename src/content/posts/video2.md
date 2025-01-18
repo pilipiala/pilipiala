@@ -29,7 +29,8 @@ draft: false
 ```yaml
 controlsList="nodownload"  disablePictureInPicture
 ```
-![](https://img2020.cnblogs.com/blog/1105185/202112/1105185-20211231113447413-1725646922.png)
+
+<img src="https://img2020.cnblogs.com/blog/1105185/202112/1105185-20211231113447413-1725646922.png"/>
 
 > 参考：[博客园](https://www.cnblogs.com/carriezhao/p/15752031.html)
 
