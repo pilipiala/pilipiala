@@ -21,11 +21,6 @@ draft: false
 <video width="300" height="500" src="https://pub-932bcf23b7c54bdf90743ac393af13cd.r2.dev/%E8%A7%86%E9%A2%91/%E5%A4%A9%E7%A9%B9.mp4" controls="controls"></video>
 
 ```
-<video width="720" height="970" src="https://pub-932bcf23b7c54bdf90743ac393af13cd.r2.dev/%E8%A7%86%E9%A2%91/%E5%A4%A9%E7%A9%B9.mp4" controls="controls" allowfullscreen="false"></video>
+<video width="100%" height="970" border-radius="10" src="https://pub-932bcf23b7c54bdf90743ac393af13cd.r2.dev/%E8%A7%86%E9%A2%91/%E5%A4%A9%E7%A9%B9.mp4" controls="controls" poster="./img/天穹.jpg" controlsList="nodownload" disablePictureInPicture loop ></video>
 
-## 第二种类型
-```yaml
 
-<video width="100%" height="500" src="https://pub-932bcf23b7c54bdf90743ac393af13cd.r2.dev/%E8%A7%86%E9%A2%91/%E5%A4%A9%E7%A9%B9.mp4" ></video>
-```
-<iframe width="100%" height="468" src="https://pub-932bcf23b7c54bdf90743ac393af13cd.r2.dev/%E8%A7%86%E9%A2%91/%E5%A4%A9%E7%A9%B9.mp4"> </iframe>
