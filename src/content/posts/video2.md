@@ -22,4 +22,7 @@ YouTube：<iframe width="100%" height="468" src="https://www.youtube.com/embed/5
 ```
 
 >## 自制播放器+R2对象存储桶实现
-<video width="720" height="970" src="https://pub-932bcf23b7c54bdf90743ac393af13cd.r2.dev/%E8%A7%86%E9%A2%91/%E5%A4%A9%E7%A9%B9.mp4" controls="controls"></video>
+<video width="720" height="970" src="https://pub-932bcf23b7c54bdf90743ac393af13cd.r2.dev/%E8%A7%86%E9%A2%91/%E5%A4%A9%E7%A9%B9.mp4" controls="controls" allowfullscreen="false"></video>
+
+>## 2
+<iframe width="100%" height="468" src="https://pub-932bcf23b7c54bdf90743ac393af13cd.r2.dev/%E8%A7%86%E9%A2%91/%E5%A4%A9%E7%A9%B9.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
