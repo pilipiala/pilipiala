@@ -20,6 +20,6 @@ draft: false
 ```yaml
 <video width="300" height="500" src="https://pub-932bcf23b7c54bdf90743ac393af13cd.r2.dev/%E8%A7%86%E9%A2%91/%E5%A4%A9%E7%A9%B9.mp4" controls="controls"></video>
 ```
-<video width="720" height="1280" poster="./img/天穹.jpg" src="https://pub-932bcf23b7c54bdf90743ac393af13cd.r2.dev/%E8%A7%86%E9%A2%91/%E5%A4%A9%E7%A9%B9.mp4" controls="controls"  controlsList="nodownload" disablePictureInPicture autoplay loop ></video>
+<video width="720" height="1280" src="https://pub-932bcf23b7c54bdf90743ac393af13cd.r2.dev/%E8%A7%86%E9%A2%91/%E5%A4%A9%E7%A9%B9.mp4" controls="controls"  controlsList="nodownload" disablePictureInPicture autoplay loop ></video>
 
 
