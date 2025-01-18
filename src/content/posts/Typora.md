@@ -43,9 +43,9 @@ Typora 中文官网地址：https://typoraio.cn </br>
 
 Typora 的安装过程我就不演示了，只需按提示点击“下一步”即可。接着，将下载的工具压缩包解压，您会看到两个 `.exe` 文件。
 
-> license-gen.exe
+> `license-gen.exe`
 
-> node_inject.exe
+> `node_inject.exe`
 
 #### 3. 复制文件至安装目录
 
