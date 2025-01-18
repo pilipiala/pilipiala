@@ -29,7 +29,7 @@ draft: false
 ```yaml
 controlsList="nodownload"  disablePictureInPicture
 ```
-![](https://img2020.cnblogs.com/blog/1105185/202112/1105185-20211231113447413-1725646922.png)
+![](https://pub-932bcf23b7c54bdf90743ac393af13cd.r2.dev/%E5%8D%9A%E5%AE%A2%E5%B8%96%E5%AD%90%E5%9B%BE%E7%89%87/1105185-20211231113447413-1725646922.png)
 > 参考：[博客园](https://www.cnblogs.com/carriezhao/p/15752031.html)
 
 - 2.自动播放 `autoplay` 和 循环播放 `loop`
