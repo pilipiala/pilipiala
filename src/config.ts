@@ -49,7 +49,7 @@ export const navBarConfig: NavBarConfig = {
     },
     {
       name: '随机图站点',
-      url: 'https://b.heyichen.ip-ddns.com//',     // 内部链接不应包含基本路径，因为它是自动添加的
+      url: 'https://b.heyichen.ip-ddns.com/',     // 内部链接不应包含基本路径，因为它是自动添加的
       external: true,                               // 显示外部链接图标并将在新选项卡中打开
     },
     {
