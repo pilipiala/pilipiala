@@ -15,14 +15,12 @@ title: 在帖子中包含视频
 published: 2023-10-19
 // ...
 ---
-Bilibili：<iframe width="100%" height="468" src="//player.bilibili.com/player.html?bvid=BV1fK4y1s7Qf&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+Bilibili：<iframe width="100%" height="468" src="//player.bilibili.com/player.html?isOutside=true&aid=928861104&bvid=BV1uT4y1P7CX&cid=287639008&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 YouTube：<iframe width="100%" height="468" src="https://www.youtube.com/embed/5gIf0_xpFPI?si=N1WTorLKL0uwLsU_" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 ```
 
 >## Bilibili
-
-<iframe width="100%" height="468" src="//player.bilibili.com/player.html?isOutside=true&aid=80433022&bvid=BV1GJ411x7h7&cid=137649199&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe width="100%" height="468" src="//player.bilibili.com/player.html?isOutside=true&aid=928861104&bvid=BV1uT4y1P7CX&cid=287639008&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 >## YouTube
-
 <iframe width="100%" height="468" src="https://www.youtube.com/embed/5gIf0_xpFPI?si=N1WTorLKL0uwLsU_" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
