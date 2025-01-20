@@ -2,7 +2,7 @@
 title: 关于Astro添加背景音乐的问题
 published: 2025-01-19
 description: 记录Astro添加背景音乐的问题
-image: "./img/天穹.jpg"
+image: "./img/柴郡.gif"
 tags: [Astro,背景音乐]
 category: 示例
 draft: false
