@@ -1,5 +1,5 @@
 # About
-这是 Fuwari [啊茶茶](https://github.com/pilipiala/fuwari)的演示站点。
+这是 Fuwari [啊茶茶](https://github.com/pilipiala/pilipiala)的演示站点。
 
 ::github{repo="pilipiala/fuwari"}
 
