@@ -23,6 +23,6 @@ draft: false
       window.__dynamic_base__ = window.ALIST.cdn || ""
       </script>
 ```
-
+- 参考链接：https://github.com/AlistGo/alist/discussions/6680#discussioncomment-9942683
 - 这才是我的真实Alist：
 ![](https://pub-932bcf23b7c54bdf90743ac393af13cd.r2.dev/%E5%8D%9A%E5%AE%A2%E5%B8%96%E5%AD%90%E5%9B%BE%E7%89%87/screencapture-192-168-135-213-5244-2025-01-29-03_37_22.png)
