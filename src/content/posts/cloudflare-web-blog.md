@@ -2,7 +2,7 @@
 title: Cloudflare静态页面博客搭建
 published: 2025-01-07
 description: Cloudflare博客网页的简单示例
-image: "https://bilibala.us.kg/%E5%8D%9A%E5%AE%A2%E5%B8%96%E5%AD%90%E5%9B%BE%E7%89%87/Homepage.png"
+image: "https://pub-932bcf23b7c54bdf90743ac393af13cd.r2.dev/%E5%8D%9A%E5%AE%A2%E5%B8%96%E5%AD%90%E5%9B%BE%E7%89%87/Homepage.png"
 tags: [Cloudflare, 博客, web,HTML]
 category: 博客
 draft: false
