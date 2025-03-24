@@ -44,17 +44,17 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.About,
     {
       name: 'AlistCloud',
-      url: 'https://my.alistcloud.us.kg/@login',     // 内部链接不应包含基本路径，因为它是自动添加的
+      url: 'https://wctymvsk.hk1.sian.one/',     // 内部链接不应包含基本路径，因为它是自动添加的
       external: true,                               // 显示外部链接图标并将在新选项卡中打开
     },
     {
       name: '我的图床',
-      url: 'https://image.pilipala.us.kg/',     // 内部链接不应包含基本路径，因为它是自动添加的
+      url: 'https://pilipiala.pp.ua/',     // 内部链接不应包含基本路径，因为它是自动添加的
       external: true,                        // 显示外部链接图标并将在新选项卡中打开
     },
     {
       name: '随机图站点',
-      url: 'https://image2.pilipala.us.kg/',     // 内部链接不应包含基本路径，因为它是自动添加的
+      url: 'https://r2storage.acgr18share.workers.dev/',     // 内部链接不应包含基本路径，因为它是自动添加的
       external: true,                           // 显示外部链接图标并将在新选项卡中打开
     },
   ],
