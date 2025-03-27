@@ -57,11 +57,6 @@ export const navBarConfig: NavBarConfig = {
       url: 'https://r2storage.acgr18share.workers.dev/',     // 内部链接不应包含基本路径，因为它是自动添加的
       external: true,                           // 显示外部链接图标并将在新选项卡中打开
     },
-    {
-      name: '云电脑',
-      url: 'https://pc.ctyun.cn/#/login',     // 内部链接不应包含基本路径，因为它是自动添加的
-      external: true,                           // 显示外部链接图标并将在新选项卡中打开
-    },
   ],
 }
 
