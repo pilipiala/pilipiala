@@ -44,7 +44,7 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.About,
     {
       name: 'AlistCloud',
-      url: 'https://wctymvsk.hk1.sian.one/',     // 内部链接不应包含基本路径，因为它是自动添加的
+      url: 'myalist.hk1.sian.one',     // 内部链接不应包含基本路径，因为它是自动添加的
       external: true,                               // 显示外部链接图标并将在新选项卡中打开
     },
     {
