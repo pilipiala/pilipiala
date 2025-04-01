@@ -1,9 +1,9 @@
 ---
 title: 记录一下子
 published: 2025-04-1
-description: no no no 
+description: oh
 image: "https://pilipiala.pp.ua/api/rfile/微信图片_20250402004201.jpg"
-tags: [记录生活]
+tags: [博客]
 category: 记录
 draft: false
 ---
