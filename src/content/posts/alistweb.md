@@ -9,4 +9,4 @@ draft: false
 ---
 
 --内嵌Alist网页播放，如果未显示说明服务器后台没开
-<iframe src="https://myalist.hk1.sian.one" allowfullscreen width="100%" height="600px" frameborder="0"></iframe>
+<iframe src="https://myalist.hk1.sian.one" autoplay allowfullscreen width="100%" height="600px" frameborder="0"></iframe>
